@@ -5,6 +5,8 @@
 
 Rank 500,000 Premier cardmembers by profitability to the issuer. The submission is a per-member score; the metric is the overlap between the predicted top 20% (100,000 rows) and the hidden true top 20%, split 70/30 public/private, under an integrity review.
 
+## Approach
+
 BAEP scores each member with a **single closed-form economic-profit equation** — accounting margin charged for the balance-sheet risk it rides on — applied identically to every member. Every coefficient traces to a public benchmark (Amex 10-K, Basel IRB, the Premier product sheet); **none is fitted to leaderboard feedback**.
 
 Final Leaderboard score - 0.92
