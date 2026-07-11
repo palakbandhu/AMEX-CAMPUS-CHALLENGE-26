@@ -1,0 +1,5 @@
+Population redemption propensity (rho_bar): 0.452
+Revenue mix  discount 38.1% | NII 17.4% | fees 44.5%
+Aggregate EL / aggregate EAD: 3.06%  (premium charge-off benchmark ~1.5-3%)
+Top-20% vs rest: spend 104079 vs 20639
+Top-100k stability under +/-25% block perturbation: 90.6% - 98.8%
